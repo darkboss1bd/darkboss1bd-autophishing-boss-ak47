@@ -2,7 +2,7 @@
 
 ##   autophishing 	: 	darkboss1bd-autophishing-boss-ak47
 ##   Author      	: 	DARKBOSS1BD
-##   Version     	: 	2.0
+##   Version     	: 	3.1
 ##   Github      	: 	https://github.com/darkboss1bd
 
 
