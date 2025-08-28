@@ -8,16 +8,6 @@
 
 The use of the darkboss1bd-autophishing-boss-ak47 & its resources/phishing-pages is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Also we inform you that some of your your actions may be ILLEGAL and you CAN NOT use this software to test person or company without WRITTEN PERMISSION from them.
 
-# FEATURES
-
-- Latest and updated login pages every month
-- Beginner Friendly
-- Multiple Tunneling optoins
-    * Localhost
-    * CloudFlared
-    * Ngrok(https://ngrok.com/)
-    * LocalXpose(https://localxpos.io/)
-
 # Installation
 
 ### Kali Linux
